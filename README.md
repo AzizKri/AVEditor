@@ -1,4 +1,4 @@
-# VideoEditor
+# AVEditor
 
 A simple application to cut and/or reduce the size of videos using ffmpeg.
 
@@ -10,4 +10,4 @@ A simple application to cut and/or reduce the size of videos using ffmpeg.
 - Mute Audio (Optional): Mute the audio.
 - Output Name: The output name and location of the file. Automatically set to `[original_name]_cut.mp4` and the same location as the input video.
 
-Note: The application may be marked as unsafe by Windows Defender as the exe is unsigned. You may check the code and/or the [VirusTotal](https://www.virustotal.com/gui/file/f4de5ed349c3970a4f48c79a436770f13e3620944fd459e17f96f9c6f43e282b) scan to make sure it's safe.
+Note: The application may be marked as unsafe by Windows Defender because the exe is unsigned (and I do not plan on purchasing a certificate for such a small application). You may check the code and/or the [VirusTotal (Zip)](https://www.virustotal.com/gui/file/df17ddc212ffa36f995df2813f04e5d83f9f878fe0c759facc36345ab70eb7ac) [VirusTotal (exe)](https://www.virustotal.com/gui/file/0db6b3cf6219c835b605e0625a3611b45c81bba339dc85a123f081f69f240184) scan to make sure it's safe.
